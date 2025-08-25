@@ -70,9 +70,14 @@ pip install -r requirements.txt
 **Challenge**: Needed to validate that clusters made semantic sense.  
 
 **Solution**: Multi-dimensional visualization  
-- **2D visualizations** using PCA and t-SNE  
+- **2D visualizations** using PCA and t-SNE
+
+<img width="1331" height="538" alt="image" src="https://github.com/user-attachments/assets/246a0c98-56ff-4cbe-bb16-eeb3d675d56c" />
+ 
 - **3D interactive plots** with Plotly  
-- Cluster statistics and sample inspection  
+
+<img width="1067" height="717" alt="image" src="https://github.com/user-attachments/assets/95516c53-90f7-4bb3-93e7-06ede33bab93" />
+
 
 **Results**:  
 - Visualizations confirmed that similar items were grouped together
@@ -111,6 +116,10 @@ pip install -r requirements.txt
 | Metal Products         | $2.46M      | 117   | $20,998        | 1.8%            |
 | Plumbing Products      | $0.74M      | 179   | $4,136         | 0.5%            |
 | Automotive Products    | $0.26M      | 33    | $7,763         | 0.2%            |
+
+<img width="1269" height="499" alt="image" src="https://github.com/user-attachments/assets/ad84aef4-dd10-461d-9101-bb5384e3d0a0" />
+<img width="1330" height="495" alt="image" src="https://github.com/user-attachments/assets/29a18013-360e-44dd-a62e-546653884895" />
+
 
 **Key Insights**:  
 - **Top Spend Categories**: Steel Products and Construction Materials dominate, accounting for ~72% of total spend.  
